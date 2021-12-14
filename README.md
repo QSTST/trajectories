@@ -1,4 +1,4 @@
-# Molecular structures and MD trajectories of manuscript submitted to PRB
+# Molecular structures and MD trajectories of article publish in PRB
 
 This project lists molecular structures used in moldcular dynmics simulation and output trajectiries files.
 
